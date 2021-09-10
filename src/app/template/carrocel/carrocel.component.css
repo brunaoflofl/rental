@@ -1,0 +1,10 @@
+.jumbotron-with-background {
+    background-image: url(../../../assets/carro-branco.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    x: 100%;
+    y: 30%;
+    padding: 300px;
+
+}
