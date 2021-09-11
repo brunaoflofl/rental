@@ -5,6 +5,20 @@
     background-size: cover;
     x: 100%;
     y: 30%;
-    padding: 240px;
+    padding: 140px;
+
+}
+h1, h4 {
+    text-align: end;
+    text-shadow: white;
+    font-weight: bold;
+}
+.tittle-poster {
+    
+
+}
+.ev-poster {
+    background-color: #1d1a6a;
+    color: #fff;
 
 }
